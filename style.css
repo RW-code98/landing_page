@@ -1,5 +1,6 @@
 body{
-padding: 0 250px;
+font-family: roboto, arial;
+margin: 0;
 }
 .header{
     display: flex;
@@ -16,4 +17,17 @@ ul{
 
 a{
     text-decoration: none;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.logo{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.hero{
+    background-color: #1f2937;
+    padding: 0 250px;
+    margin: 0;
 }
