@@ -13,3 +13,7 @@ ul{
     gap: 16px;
     list-style-type: none;
 }
+
+a{
+    text-decoration: none;
+}
