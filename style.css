@@ -6,7 +6,7 @@ margin: 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 8px;
+    padding: 8px 0;
 }
 
 ul{
@@ -31,16 +31,25 @@ a{
 
 .hero{
     background-color: #1f2937;
-    padding: 0 250px;
+    padding: 0 400px;
     margin: 0;
 }
 
 .image-holder{
     width: 500px;
     height: 250px;
+    flex: 1;
 }
 
 .image-holder img{
     width: 100%;
     height: 100%;
+}
+
+.hero-text-section{
+    display: flex;
+}
+
+.hero-text{
+    flex: 1;
 }
