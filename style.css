@@ -17,6 +17,7 @@ ul{
     list-style-type: none;
 }
 
+.hero-subtext,
 a{
     text-decoration: none;
     font-size: 18px;
@@ -36,9 +37,9 @@ a{
 }
 
 .image-holder{
-    width: 500px;
+    min-width: 500px;
     height: 250px;
-    flex: 1;
+    flex: 0 0 auto;
 }
 
 .image-holder img{
@@ -48,8 +49,16 @@ a{
 
 .hero-text-section{
     display: flex;
+    gap: 180px
 }
 
 .hero-text{
-    flex: 1;
+    flex: auto;
 }
+
+.hero-heading{
+    font-size: 48px;
+    font-weight:bolder;
+    color: #F9FAF8;
+}
+
