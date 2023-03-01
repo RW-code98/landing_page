@@ -7,6 +7,7 @@ margin: 0;
     justify-content: space-between;
     align-items: center;
     padding: 8px 0;
+    margin-bottom: 100px;
 }
 
 ul{
@@ -32,7 +33,7 @@ a{
 
 .hero{
     background-color: #1f2937;
-    padding: 0 400px;
+    padding: 0 400px 60px;
     margin: 0;
 }
 
@@ -49,7 +50,8 @@ a{
 
 .hero-text-section{
     display: flex;
-    gap: 180px
+    gap: 180px;
+    margin-bottom: 100px;
 }
 
 .hero-text{
