@@ -38,9 +38,9 @@ a{
 }
 
 .image-holder{
-    min-width: 500px;
+    width: 500px;
     height: 250px;
-    flex: 0 0 auto;
+    flex: 0 1 auto;
 }
 
 .image-holder img{
@@ -55,7 +55,8 @@ a{
 }
 
 .hero-text{
-    flex: auto;
+    flex: 0 1 auto;
+    max-width: 450px;
 }
 
 .hero-heading{
