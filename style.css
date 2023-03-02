@@ -72,6 +72,18 @@ a{
     color: #1f2937;
 }
 
-.info-container{
+.items img{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
 
+.items{
+    width: 200px;
+    text-align: center;
+}
+
+.info-container{
+    display: flex;
+    justify-content: center;
 }
