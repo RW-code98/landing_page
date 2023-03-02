@@ -88,11 +88,12 @@ a{
 }
 
 .items{
-    width: 200px;
+    width: 166px;
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
+    gap: 15px;
 }
 
 .info-container{
