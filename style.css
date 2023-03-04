@@ -143,3 +143,6 @@ a{
     padding: 40px 80px;
 }
 
+.cta-content{
+    display: flex;
+}
