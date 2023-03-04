@@ -132,5 +132,6 @@ a{
 
 .cta-section{
     height: 400px;
+    display: flex;
 }
 
