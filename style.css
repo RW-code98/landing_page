@@ -100,6 +100,10 @@ a{
     display: flex;
     justify-content: center;
     gap: 52px;
-    margin: 80px;
+    margin-bottom: 150px;
+}
+.quote-container{
+    display: flex;
+    flex-direction: column;
 }
 
