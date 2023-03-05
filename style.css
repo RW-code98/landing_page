@@ -163,4 +163,6 @@ button{
     background-color: #3882F6;
     width: 100px;
     height: 30px;
+    border-radius: 8px;
+    border: #1f2937;
 }
