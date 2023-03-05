@@ -177,4 +177,10 @@ button{
     background-color: #1f2937;
     height: 50px;
     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-text{
+    color: #e5e7eb;
 }
