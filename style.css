@@ -147,3 +147,7 @@ a{
     display: flex;
     gap: 80px;
 }
+
+.cta-title{
+    color: #F9FAF8;
+}
