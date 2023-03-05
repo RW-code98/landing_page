@@ -145,4 +145,5 @@ a{
 
 .cta-content{
     display: flex;
+    gap: 80px;
 }
