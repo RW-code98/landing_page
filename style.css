@@ -105,6 +105,10 @@ a{
     flex-wrap: wrap;
 }
 
+.text{
+    color: #1f2937;
+}
+
 .quote-section{
     display: flex;
     justify-content: center;
