@@ -100,7 +100,7 @@ a{
 .info-container{
     display: flex;
     justify-content: center;
-    gap: 52px;
+    gap: 55px;
     margin-bottom: 150px;
     flex-wrap: wrap;
 }
